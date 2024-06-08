@@ -1,4 +1,4 @@
-## Hello and Welcome 👋, I'm Anas Hasan
+<h2 align="center">Hello and Welcome 👋, I'm Anas Hasan</h2>
 
 I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. 
 
