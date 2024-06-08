@@ -3,6 +3,9 @@
      <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/">
           <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
      </a>
+     <a href="https://www.kaggle.com/anashasan">
+          <img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+     </a>
 </p>
 
 I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. 
