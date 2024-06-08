@@ -31,7 +31,20 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 I achieved a score of 709 out of 900 to earn a global certification in CompTIA Data+.
 
 ## 📲Connect with me
-
+<p>
+     <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/">
+          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+     </a>
+     <a href="https://www.kaggle.com/anashasan">
+          <img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+     </a>
+     <a href="https://leetcode.com/u/AnasHasan786/">
+          <img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+     </a>
+     <a href="https://www.geeksforgeeks.org/user/anashasan786/">
+          <img alt="GeeksForGeeks" title="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+     </a>
+</p>
 
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
