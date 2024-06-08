@@ -12,6 +12,10 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,sass,react,vite,tailwind,cypress,tensorflow,mysql,azure,docker,git,flask&theme=dark)](https://skillicons.dev)
+
+## 🏆Achievements
+I achieved a score of 709 out of 900 to earn a global certification in CompTIA Data+.
+
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
