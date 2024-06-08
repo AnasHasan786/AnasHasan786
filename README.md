@@ -11,7 +11,7 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 .✍️ I author domain insight blogs on Medium.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark)](https://skillicons.dev)
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
