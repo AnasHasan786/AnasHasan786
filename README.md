@@ -10,6 +10,8 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
      https://ieeexplore.ieee.org/document/10404192
 .✍️ I author domain insight blogs on Medium.
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
