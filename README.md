@@ -9,6 +9,9 @@
      <a href="https://leetcode.com/u/AnasHasan786/">
           <img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
      </a>
+     <a href="https://www.geeksforgeeks.org/user/anashasan786/">
+          <img alt="GeeksForGeeks" title="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+     </a>
 </p>
 
 I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. 
