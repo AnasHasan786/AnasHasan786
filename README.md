@@ -13,6 +13,7 @@
           <img alt="GeeksForGeeks" title="GeeksForGeeks" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
      </a>
 </p>
+<br>
 
 I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. 
 
