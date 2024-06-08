@@ -8,7 +8,8 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 .🥇 I hold a certification in CompTIA Data+.
 
 .📝 I have published a paper in the IEEE journal titled "Early Detection of Melanoma Skin Cancer Recognition Using CNN". 
-     Here is the Link: https://ieeexplore.ieee.org/document/10404192
+     
+    Here is the Link: https://ieeexplore.ieee.org/document/10404192
 
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
