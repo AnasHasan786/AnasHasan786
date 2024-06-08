@@ -6,6 +6,9 @@
      <a href="https://www.kaggle.com/anashasan">
           <img alt="Kaggle" title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/>
      </a>
+     <a href="https://leetcode.com/u/AnasHasan786/">
+          <img alt="Leetcode" title="Leetcode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+     </a>
 </p>
 
 I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University. 
