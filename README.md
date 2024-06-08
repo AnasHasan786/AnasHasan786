@@ -7,10 +7,10 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 .🥇 I hold a certification in CompTIA Data+.<br/>
 .📝 I have published a paper in the IEEE journal titled "Early Detection of Melanoma Skin Cancer Recognition Using CNN". <br/>&nbsp;&nbsp;Here is the Link: 
      
-     https://ieeexplore.ieee.org/document/10404192
+     [ieee.com](https://ieeexplore.ieee.org/document/10404192)
 .✍️ I author domain insight blogs on Medium.
 
-## Tech Stack
+## 👨‍💻Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,sass,react,vite,tailwind,cypress,tensorflow,mysql,azure,docker,git,flask&theme=dark)](https://skillicons.dev)
 
 ## 🏆Achievements
