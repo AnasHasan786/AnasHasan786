@@ -1,5 +1,6 @@
 ## Hello and Welcome 👋, I'm Anas Hasan
 
+I am a dedicated and ambitious Computer Science student specializing in Artificial Intelligence and Machine Learning (AIML) at Chandigarh University.
 <!--
 **AnasHasan786/AnasHasan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
