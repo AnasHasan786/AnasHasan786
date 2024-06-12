@@ -32,15 +32,10 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 I achieved a score of 709 out of 900 to earn a global certification in CompTIA Data+.
 
 ## 📲Connect with me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="margin-right: 10px;"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" style="margin-right: 10px;"/>
+    <img src="![image](https://github.com/AnasHasan786/AnasHasan786/assets/124896245/598c69bf-2ab0-4527-bfae-2a74c38bce4d)
+" alt="LinkedIn" style="margin-right: 10px;"/>
   </a>
 </p>
 <!--
