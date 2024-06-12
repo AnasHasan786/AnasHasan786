@@ -37,7 +37,7 @@ I achieved a score of 709 out of 900 to earn a global certification in CompTIA D
     <img src="https://github.com/AnasHasan786/AnasHasan786/assets/124896245/d7cfd8dc-66ce-4a44-b44f-6deea4aef35e" alt="LinkedIn" style="width: 50px; 
      height: 50px; margin-right: 10px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/" target="_blank">
+  <a href="https://www.instagram.com/anas_hasan72/" target="_blank">
     <img src="https://github.com/AnasHasan786/AnasHasan786/assets/124896245/373e7c84-1273-4fed-ac46-688f13ac8863" alt="LinkedIn" style="width: 50px;      
      height: 50px; margin-right: 10px;"/>
   </a>
