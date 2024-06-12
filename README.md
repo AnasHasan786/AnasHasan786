@@ -41,8 +41,8 @@ I achieved a score of 709 out of 900 to earn a global certification in CompTIA D
     <img src="https://github.com/AnasHasan786/AnasHasan786/assets/124896245/373e7c84-1273-4fed-ac46-688f13ac8863" alt="Instagram" style="width: 50px;      
      height: 50px; margin-right: 10px;"/>
   </a>
-  <a href="https://www.instagram.com/anas_hasan72/">
-    <img src="https://discordapp.com/users/775232246490988546" alt="Discord" style="width: 50px;      
+  <a href="https://discordapp.com/users/775232246490988546">
+    <img src="" alt="Discord" style="width: 50px;      
      height: 50px; margin-right: 10px;"/>
   </a>
 </p>
