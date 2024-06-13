@@ -21,8 +21,7 @@ I am a dedicated and ambitious Computer Science student specializing in Artifici
 <li>👨‍🎓 I am a Computer Science student specializing in AIML at Chandigarh University.</li>
 <li>🥇 I hold a certification in CompTIA Data+.</li>
 <li>🔖 Top 50 Institude Rank in GeeksForGeeks Coding Section.</li>
-<li>📝 I have published a paper in the IEEE journal titled "Early Detection of Melanoma Skin Cancer Recognition Using CNN".</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is the Link:&nbsp;&nbsp;
-     [Early Detection of Melanoma Skin Cancer Recognition using CNN](https://ieeexplore.ieee.org/document/10404192)
+<li>📝 I have published a paper in the IEEE journal titled "Early Detection of Melanoma Skin Cancer Recognition Using CNN".</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here is the Link:&nbsp;&nbsp; https://ieeexplore.ieee.org/document/10404192
 <li>✍️ I author domain insight blogs on Medium.</li>
 
 ## 👨‍💻Tech Stack
