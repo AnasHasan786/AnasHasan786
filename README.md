@@ -44,7 +44,14 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 ## 🛠 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,sass,react,vite,tailwind,cypress,tensorflow,mysql,azure,docker,git,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,pytorch,azure,flask,streamlit,html,css,js,react,bootstrap,git,mysql&theme=dark)](https://skillicons.dev)
+
+- **Data Science & Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy, Matplotlib  
+- **Deep Learning**: TensorFlow, Keras, PyTorch  
+- **Cloud**: Microsoft Azure (Certified Data Scientist Associate)  
+- **Programming**: C, C++, Java, Python  
+- **Data Structures & Algorithms**: Proficient in DSA with problem-solving experience on LeetCode and GeeksForGeeks  
+- **Web Development**: Flask, Streamlit, HTML, CSS, JavaScript, React, Bootstrap  
 
 ---
 
@@ -82,7 +89,7 @@ I am always open to new opportunities, collaborations, and discussions about cut
 ### 🔍 **Food Vision Project**  
 A comprehensive web application that classifies food into 101 categories using Transfer Learning. Features include real-time image classification and an intuitive web interface.  
 - **Tech**: Python, Flask, TensorFlow, HTML, CSS, React.  
-- [🔗 GitHub Repository](https://github.com/AnasHasan786/FoodVision)
+- 🔗[GitHub Repository](https://github.com/AnasHasan786/FoodVision)
 
 ---
 
@@ -98,3 +105,11 @@ A comprehensive web application that classifies food into 101 categories using T
 </p>
 
 ---
+
+## 📜 License  
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to copy and paste this updated version into your `README.md` file. Let me know if you'd like further adjustments! 🚀
