@@ -24,7 +24,7 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 ## 🚀 **What I Do**  
 - **📚 Academic Excellence**: Computer Science (AIML) student with a strong academic foundation.  
 - **🎖 Certifications**:  
-   - **Microsoft Azure Data Scientist Associate**  
+   - **Microsoft Azure Data Scientist Associate (Score: 811/1000)**  
    - **CompTIA Data+ Certified (Score: 709/900)**  
 - **🔖 GeeksforGeeks Achievements**: Top 100 Institute Rank in the coding section.  
 - **📜 Published Research**:  
@@ -82,17 +82,7 @@ I am always open to new opportunities, collaborations, and discussions about cut
 ### 🔍 **Food Vision Project**  
 A comprehensive web application that classifies food into 101 categories using Transfer Learning. Features include real-time image classification and an intuitive web interface.  
 - **Tech**: Python, Flask, TensorFlow, HTML, CSS, React.  
-- [🔗 GitHub Repository](https://github.com/yourusername/FoodVision)
-
-### 🤖 **AI Chatbot**  
-An AI-powered chatbot for customer support, utilizing NLP techniques to deliver human-like interactions.  
-- **Tech**: Python, Flask, Rasa, TensorFlow.  
-- [🔗 GitHub Repository](https://github.com/yourusername/AI-Chatbot)
-
-### 📈 **Data Analytics Dashboard**  
-A dynamic dashboard for visualizing business data using interactive plots and graphs.  
-- **Tech**: Python, Dash, Plotly, Pandas.  
-- [🔗 GitHub Repository](https://github.com/yourusername/Data-Dashboard)
+- [🔗 GitHub Repository]((https://github.com/AnasHasan786/FoodVision))
 
 ---
 
@@ -108,8 +98,3 @@ A dynamic dashboard for visualizing business data using interactive plots and gr
 </p>
 
 ---
-
-## 📜 License  
-
-This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
