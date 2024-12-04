@@ -44,7 +44,7 @@ I am a **Computer Science student specializing in Artificial Intelligence and Ma
 
 ## 🛠 Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,pytorch,azure,flask,streamlit,html,css,js,react,bootstrap,git,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,tensorflow,pytorch,azure,flask,html,css,js,react,bootstrap,git,mysql&theme=dark)](https://skillicons.dev)
 
 - **Data Science & Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Pandas, Numpy, Matplotlib  
 - **Deep Learning**: TensorFlow, Keras, PyTorch  
