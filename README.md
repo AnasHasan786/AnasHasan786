@@ -82,7 +82,7 @@ I am always open to new opportunities, collaborations, and discussions about cut
 ### 🔍 **Food Vision Project**  
 A comprehensive web application that classifies food into 101 categories using Transfer Learning. Features include real-time image classification and an intuitive web interface.  
 - **Tech**: Python, Flask, TensorFlow, HTML, CSS, React.  
-- [🔗 GitHub Repository]((https://github.com/AnasHasan786/FoodVision))
+- [🔗 GitHub Repository](https://github.com/AnasHasan786/FoodVision)
 
 ---
 
