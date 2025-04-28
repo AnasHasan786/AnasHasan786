@@ -1,4 +1,4 @@
-# <h1 align="center">👋 Hello and Welcome, I'm Anas Hasan!</h1>
+# <h1 align="center">👋 Hello and Welcome, I am Anas Hasan!</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
