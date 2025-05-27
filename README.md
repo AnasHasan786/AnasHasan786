@@ -62,6 +62,34 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="50%" style="padding: 20px;">
+      <a href="https://github.com/AnasHasan786/SustainaWare--AI-Powered-Waste-Classification-and-Recycling-System" target="_blank">
+        <img src="https://github.com/user-attachments/assets/90bbd85b-571c-4cdf-bc2b-34ae3a8c0c25" width="90%" alt="SustainaWare" style="border-radius: 12px;" />
+      </a>
+      <br><br>
+      <b style="font-size: 18px;">SustainaWare</b>
+      <br>
+      <sub>♻️ AI-Powered Waste Classification & Recycling System</sub>
+    </td>
+    <td align="center" width="50%" style="padding: 20px;">
+      <a href="https://github.com/AnasHasan786/FoodVision" target="_blank">
+        <img src="https://github.com/user-attachments/assets/e533a04d-222d-4fca-8d86-719155c41073" width="90%" alt="FoodVision" style="border-radius: 12px;" />
+      </a>
+      <br><br>
+      <b style="font-size: 18px;">FoodVision</b>
+      <br>
+      <sub>🍽️ AI-Powered Dish Recognition & Recipe Explorer</sub>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 
