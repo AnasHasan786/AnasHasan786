@@ -85,21 +85,18 @@
   </tr>
 </table>
 
+<p align="center">
+  I’m always open to exciting collaborations, freelance opportunities, or just a good tech talk. Whether you’ve got an idea to build, a problem to solve, or simply want to say hi — let’s make something awesome together!
+</p>
 
+<p align="center">
+  <a href="mailto:anas.hassan9417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style="border-radius: 50%" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style="border-radius: 50%" alt="LinkedIn"/></a>
+  <a href="https://github.com/AnasHasan786" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style="border-radius: 50%" alt="GitHub" />
+  </a>
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8F6E66&center=true&vCenter=true&width=700&lines=🚀+Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG">
+</p>
