@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="AI Brain" />
-</p>
-
 <h1 align="center" style="font-weight:bold;">Hey, I'm <span style="color:#4FC3F7;">Anas Hasan</span>👨‍💻</h1>
 <h3 align="center">Building AI-powered Software | AI x Scalable Systems | MERN | LangChain | Cloud</h3>
 
