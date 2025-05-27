@@ -16,3 +16,18 @@
   <a href="https://medium.com/@anas.hassan9417"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style="border-radius: 50%" /></a>
 </p>
 
+<p align="center" style="margin-top: 1.5rem;">
+  <a href="https://github.com/anas-hasan?tab=repositories" target="_blank" style="text-decoration:none; margin-right: 1rem;">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  </a>
+  <a href="https://linkedin.com/in/anas-hasan-a5546524b" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## 👋 About Me
+
+
+
+
+
