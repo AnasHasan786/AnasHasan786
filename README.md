@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; font-weight: bold;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand" />
-</p>
+  Hey, I'm <span style="color:#4FC3F7;">Anas Hasan</span>👨‍💻
+</h1>
 
-<h1 align="center" style="font-weight:bold;">Hey, I'm <span style="color:#4FC3F7;">Anas Hasan</span>👨‍💻</h1>
 <h3 align="center">Building AI-powered Software | AI x Scalable Systems | MERN | LangChain | Cloud</h3>
 
 <p align="center">
@@ -16,16 +16,14 @@
   <a href="https://medium.com/@anas.hassan9417"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style="border-radius: 50%" /></a>
 </p>
 
-<p align="center" style="margin-top: 1.5rem;">
-  <a href="https://github.com/anas-hasan?tab=repositories" target="_blank" style="text-decoration:none; margin-right: 1rem;">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
-  </a>
-  <a href="https://linkedin.com/in/anas-hasan-a5546524b" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="justify" style="font-size:14px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  I focus on building scalable AI-powered apps by combining machine learning with backend engineering. Skilled in data structures, algorithms, system design, and full-stack MERN development, I explore advanced AI   tech like LangChain, RAG, and large language models. I sharpen my problem-solving through coding challenges while creating practical AI and software solutions.
 </p>
 
-## 👋 About Me
+
+
+
+
 
 
 
