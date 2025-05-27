@@ -6,7 +6,7 @@
 <h3 align="center">Building AI-powered Software | AI x Scalable Systems | MERN | LangChain | Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+LangChain+%7C+LLMs+%7C+Backend+Engineering;Generative+AI+%7C+RAG+%7C+MERN+Stack+%7C+Azure+DS+Certified;Building+Smart%2C+Scalable+%26+AI-Driven+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8F6E66&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+LangChain+%7C+LLMs+%7C+Backend+Engineering;Generative+AI+%7C+RAG+%7C+MERN+Stack+%7C+Azure+DS+Certified;Building+Smart%2C+Scalable+%26+AI-Driven+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
