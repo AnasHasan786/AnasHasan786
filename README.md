@@ -22,7 +22,7 @@
 
 <!-- GitHub Stats and Streaks -->
 <p align="center">
-  <img src="assets/streak.svg" alt="GitHub Streak" width="450" />
+  <img src="https://streak-stats.demolab.com/?user=AnasHasan786&theme=dark&hide_border=true" alt="GitHub Streak" width="450" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasHasan786&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="350" />
 </p>
