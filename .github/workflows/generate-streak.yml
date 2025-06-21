@@ -2,11 +2,11 @@ name: Generate GitHub Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at 00:00 UTC
+  workflow_dispatch:      # Allows manual trigger
 
 permissions:
-  contents: write  
+  contents: write  # IMPORTANT: gives write access to push updates
 
 jobs:
   build:
@@ -20,12 +20,11 @@ jobs:
         run: |
           mkdir -p assets
           curl -L "https://streak-stats.demolab.com/?user=AnasHasan786&theme=dark&hide_border=true" -o assets/streak.svg
+          ls -la assets
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/streak.svg
-
-          # Only commit if there are actual changes
           git diff --quiet && echo "No changes to commit" || git commit -m "Update GitHub streak stats" && git push
