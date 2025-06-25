@@ -22,10 +22,6 @@
 
 <!-- 💻 GitHub Contributions Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnasHasan786&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasHasan786&theme=react-dark&hide_border=true&radius=16&area=true&custom_title=My+Contribution+Graph" width="100%" />
 </p>
 
