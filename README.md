@@ -20,15 +20,6 @@
   I focus on building scalable AI-powered apps by combining machine learning with backend engineering. Skilled in data structures, algorithms, system design, and full-stack MERN development, I explore advanced AI tech like LangChain, RAG, and large language models. I sharpen my problem-solving through coding challenges while creating practical AI and software solutions.
 </p>
 
-<!-- 💻 GitHub Contributions Stats -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasHasan786&theme=react-dark&hide_border=true&radius=16&area=true&custom_title=My+Contribution+Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnasHasan786&theme=algolia&margin-w=12&no-frame=true&no-bg=true&row=1" width="100%" />
-</p>
-
 <!-- 🔧 Tech Stack -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
