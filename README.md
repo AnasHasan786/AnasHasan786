@@ -1,79 +1,165 @@
-<h1 align="center" style="font-weight: bold;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="waving hand" />
-  Hey, I'm <span style="color:#00BFFF;">Anas Hasan</span> 👨‍💻
-</h1>
+<div align="center">
 
-<h3 align="center">AI-Driven Software Engineer | GenAI & Scalable Systems | MERN | LangChain | Cloud</h3>
+<h1>Anas Hasan</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+LangChain+%7C+LLMs+%7C+Backend+Engineering;Generative+AI+%7C+RAG+%7C+MERN+Stack+%7C+Azure+DS+Certified;Building+Smart%2C+Scalable+%26+AI-Driven+Applications" alt="Typing SVG" />
-</p>
+<p><b>Python Developer &nbsp;·&nbsp; Agentic AI Engineer</b></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-hasan-a5546524b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/AnasHasan786/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:anas.hassan9417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@anas.hassan9417"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+Autonomous+AI+Systems;LangGraph+%C2%B7+CrewAI+%C2%B7+Advanced+RAG+%C2%B7+FAISS;Multi-Agent+Orchestration+%C2%B7+Self-Correcting+Workflows)](https://git.io/typing-svg)
 
-<p align="justify">
-  I focus on building scalable AI-powered apps by combining machine learning with backend engineering. Skilled in data structures, algorithms, system design, and full-stack MERN development, I explore advanced AI tech like LangChain, RAG, and large language models. I sharpen my problem-solving through coding challenges while creating practical AI and software solutions.
-</p>
+<br/>
 
-<!-- 🔧 Tech Stack -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-00A896?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge&logo=architect&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-hasan-a5546524b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AnasHasan786/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anas.hassan9417@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anas.hassan9417)
 
-<!-- 🚀 Projects Showcase -->
-<table>
-  <tr>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://github.com/AnasHasan786/SustainaWare--AI-Powered-Waste-Classification-and-Recycling-System" target="_blank">
-        <img src="https://github.com/user-attachments/assets/90bbd85b-571c-4cdf-bc2b-34ae3a8c0c25" width="90%" alt="SustainaWare" style="border-radius: 12px;" />
-      </a>
-      <br><br>
-      <b style="font-size: 18px;">SustainaWare</b>
-      <br>
-      <sub>♻️ AI-Powered Waste Classification & Recycling System</sub>
-    </td>
-    <td align="center" width="50%" style="padding: 20px;">
-      <a href="https://github.com/AnasHasan786/FoodVision" target="_blank">
-        <img src="https://github.com/user-attachments/assets/e533a04d-222d-4fca-8d86-719155c41073" width="90%" alt="FoodVision" style="border-radius: 12px;" />
-      </a>
-      <br><br>
-      <b style="font-size: 18px;">FoodVision</b>
-      <br>
-      <sub>🍽️ AI-Powered Dish Recognition & Recipe Explorer</sub>
-    </td>
-  </tr>
-</table>
+</div>
 
-<p align="center">
-  I’m always open to exciting collaborations, freelance opportunities, or just a good tech talk. Whether you’ve got an idea to build, a problem to solve, or simply want to say hi — let’s make something awesome together!
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🚀+Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG">
-</p>
+## About Me
+
+I'm a **Python Developer specializing in Agentic AI**, freshly graduated with a B.E. in **Computer Science & AI/ML (2025)**. My focus is on building systems where LLMs don't just respond — they *reason, evaluate, and self-correct*.
+
+I work at the intersection of software engineering and Generative AI: designing stateful multi-agent networks, graph-based execution workflows, and hallucination-resilient RAG pipelines that hold up in production.
+
+> *"Not just prompting models — engineering the scaffolding that makes them trustworthy."*
+
+
+## Technical Stack
+
+**Agentic AI & Generative Systems**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=gitbook&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A0DAD?style=flat-square&logo=stackshare&logoColor=white)
+![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-4B0082?style=flat-square&logo=googlescholar&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Anthropic-00A1E4?style=flat-square&logo=openai&logoColor=white)
+
+**Backend & Infrastructure**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00A896?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N_Automation-FF6F00?style=flat-square&logo=n8n&logoColor=white)
+
+
+## Featured Projects
+
+### 🔮 deepscholar-ai — Autonomous Multi-Agent Research Pipeline
+
+> Stateful, graph-driven scientific paper exploration with cross-document validation — built strictly against hallucination.
+
+```
+PDF Corpus ──▶ FAISS Vector Store ──▶ LangGraph Execution Graph
+                                              │
+                                    ┌─────────▼─────────┐
+                                    │   Research Agent  │
+                                    └─────────┬─────────┘
+                                              │
+                                    ┌─────────▼─────────┐
+                                    │   Critic Agent    │──── REJECT ──┐
+                                    └─────────┬─────────┘              │
+                                         ACCEPT                        │
+                                    ┌─────────▼─────────┐              │
+                                    │  Improver Agent   │◀─────────────┘
+                                    └─────────┬─────────┘
+                                              │
+                                       Verified Output
+```
+
+**Key architecture:** LangGraph multi-agent cycle with Research → Critic → Improver nodes. Critic node rejects and re-routes suboptimal outputs automatically. Local FAISS vector context for high-precision document grounding.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-Core-00BFFF?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-RAG-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square)
+&nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/deepscholar-ai)**
+
+
+### 🤖 traceagent — Production Multi-Agent Orchestration Engine
+
+> Enterprise-grade orchestration framework for deterministic workflow tracking and linear execution safety across autonomous task workers.
+
+```
+Raw Stack Trace / Telemetry Data
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │     FastAPI Ingest API    │  <-- /api/v1/incidents (POST)
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │      AWS SQS Queue        │  <-- Asynchronous Buffer
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │   Incident Worker Loop    │  <-- background/workers/
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │     Analyzer Service      │  <-- app/services/analyzer.py
+        │   (Root Cause & Action)   │
+        └─────────────┬─────────────┘
+                      │
+                      ▼
+        ┌───────────────────────────┐
+        │    MongoDB Compass        │  <-- ErrorLog / Workspace Documents
+        └───────────────────────────┘
+```
+
+**Key architecture:** Specialized agent backstories for high-efficiency task assignment. Full transparency — every LLM token, decision branch, and intermediate state shift is logged. Optimized Python execution engine with robust connection pooling.
+
+![CrewAI](https://img.shields.io/badge/CrewAI-Framework-FF4B4B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-00A896?style=flat-square)
+&nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/traceagent)**
+
+
+## Engineering Philosophy
+
+```python
+class AnasHasan:
+
+    degree      = "B.E. CSE — Artificial Intelligence & Machine Learning (2025)"
+    expertise   = ["Agentic AI Architecture", "Multi-Agent Orchestration",
+                   "Advanced RAG Pipelines", "Self-Correcting LLM Workflows"]
+
+    def build(self, problem):
+        # Understand the failure modes before the happy path
+        identify_hallucination_risks(problem)
+        design_feedback_loops(problem)
+        enforce_determinism_where_it_matters(problem)
+        return ship_to_production(problem)
+```
+
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnasHasan786&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
+## Currently
+
+- 🔬 &nbsp; Building and exploring self-correcting agent architectures and LLM evaluation frameworks
+- 🛠️ &nbsp; Deepening expertise in production-grade Agentic AI systems
+- 🤝 &nbsp; Open to engineering collaborations, AI systems design discussions, and full-time opportunities
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Let%27s+build+deterministic+intelligence+together.;Not+just+AI+%E2%80%94+AI+that+earns+trust.)](https://git.io/typing-svg)
+
+</div>
