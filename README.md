@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Anas Hasan</h1>
+<h1>Hey, I'm Anas Hasan 👋</h1>
 
-<p><b>Python Developer &nbsp;·&nbsp; Agentic AI Engineer</b></p>
+<p><b>AI Engineer &nbsp;·&nbsp; Agentic Systems Architect &nbsp;·&nbsp; B.E. CSE (AI/ML) &rsquo;25</b></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+Autonomous+AI+Systems;LangGraph+%C2%B7+CrewAI+%C2%B7+Advanced+RAG+%C2%B7+FAISS;Multi-Agent+Orchestration+%C2%B7+Self-Correcting+Workflows)](https://git.io/typing-svg)
 
@@ -18,9 +18,9 @@
 
 ## About Me
 
-I'm a **Python Developer specializing in Agentic AI**, freshly graduated with a B.E. in **Computer Science & AI/ML (2025)**. My focus is on building systems where LLMs don't just respond — they *reason, evaluate, and self-correct*.
+I'm an **AI Engineer** specializing in Agentic AI — building systems where LLMs don't just respond, they *reason, evaluate, and self-correct*.
 
-I work at the intersection of software engineering and Generative AI: designing stateful multi-agent networks, graph-based execution workflows, and hallucination-resilient RAG pipelines that hold up in production.
+My work sits at the intersection of software engineering and Generative AI: stateful multi-agent networks, graph-based execution workflows, and hallucination-resilient RAG pipelines that are built to hold up in production. I care deeply about the architecture layer — the part that makes AI systems reliable, not just impressive in a demo.
 
 > *"Not just prompting models — engineering the scaffolding that makes them trustworthy."*
 
@@ -37,11 +37,13 @@ I work at the intersection of software engineering and Generative AI: designing 
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Anthropic-00A1E4?style=flat-square&logo=openai&logoColor=white)
 
-**Backend & Infrastructure**
+**Backend, Frontend & Infrastructure**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-00A896?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -71,13 +73,16 @@ PDF Corpus ──▶ FAISS Vector Store ──▶ LangGraph Execution Graph
                                     │  Improver Agent   │◀─────────────┘
                                     └─────────┬─────────┘
                                               │
-                                       Verified Output
+                                    ┌─────────▼─────────┐
+                                    │  Streamlit UI     │
+                                    └───────────────────┘
 ```
 
-**Key architecture:** LangGraph multi-agent cycle with Research → Critic → Improver nodes. Critic node rejects and re-routes suboptimal outputs automatically. Local FAISS vector context for high-precision document grounding.
+**Key architecture:** LangGraph multi-agent cycle with Research → Critic → Improver nodes. Critic node rejects and re-routes suboptimal outputs automatically. Local FAISS vector context for high-precision document grounding. Streamlit frontend for interactive paper querying and result exploration.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-Core-00BFFF?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-RAG-green?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square)
 &nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/deepscholar-ai)**
 
@@ -88,39 +93,39 @@ PDF Corpus ──▶ FAISS Vector Store ──▶ LangGraph Execution Graph
 
 ```
 Raw Stack Trace / Telemetry Data
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │     FastAPI Ingest API    │  <-- /api/v1/incidents (POST)
-        └─────────────┬─────────────┘
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │      AWS SQS Queue        │  <-- Asynchronous Buffer
-        └─────────────┬─────────────┘
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │   Incident Worker Loop    │  <-- background/workers/
-        └─────────────┬─────────────┘
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │     Analyzer Service      │  <-- app/services/analyzer.py
-        │   (Root Cause & Action)   │
-        └─────────────┬─────────────┘
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │    MongoDB Compass        │  <-- ErrorLog / Workspace Documents
-        └───────────────────────────┘
+              │
+              ▼
+┌─────────────────────────────┐
+│     FastAPI Ingest API      │  ◀── POST /api/v1/incidents
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│       AWS SQS Queue         │  ◀── Async Buffer
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│    Incident Worker Loop     │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│      Analyzer Service       │  ◀── Root Cause + Action Plan
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│     MongoDB  ·  Next.js     │  ◀── Incident Dashboard & Logs UI
+└─────────────────────────────┘
 ```
 
-**Key architecture:** Specialized agent backstories for high-efficiency task assignment. Full transparency — every LLM token, decision branch, and intermediate state shift is logged. Optimized Python execution engine with robust connection pooling.
+**Key architecture:** Specialized agent backstories for high-efficiency task assignment. Full transparency — every LLM token, decision branch, and intermediate state shift is logged. Next.js dashboard surfaces incident timelines, root cause reports, and agent decision trees in real time.
 
-![CrewAI](https://img.shields.io/badge/CrewAI-Framework-FF4B4B?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-00A896?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-Dashboard-000000?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-Storage-47A248?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square)
 &nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/traceagent)**
 
 
@@ -129,9 +134,9 @@ Raw Stack Trace / Telemetry Data
 ```python
 class AnasHasan:
 
-    degree      = "B.E. CSE — Artificial Intelligence & Machine Learning (2025)"
-    expertise   = ["Agentic AI Architecture", "Multi-Agent Orchestration",
-                   "Advanced RAG Pipelines", "Self-Correcting LLM Workflows"]
+    degree    = "B.E. CSE — Artificial Intelligence & Machine Learning (2025)"
+    expertise = ["Agentic AI Architecture", "Multi-Agent Orchestration",
+                 "Advanced RAG Pipelines", "Self-Correcting LLM Workflows"]
 
     def build(self, problem):
         # Understand the failure modes before the happy path
