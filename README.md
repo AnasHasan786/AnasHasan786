@@ -27,29 +27,31 @@ My work sits at the intersection of software engineering and Generative AI: stat
 
 ## Technical Stack
 
-**Agentic AI & Generative Systems**
+**Agentic AI & LLM Systems**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logo=gitbook&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6A0DAD?style=flat-square&logo=stackshare&logoColor=white)
-![Advanced RAG](https://img.shields.io/badge/Advanced_RAG-4B0082?style=flat-square&logo=googlescholar&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat-square&logo=googlescholar&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20Anthropic-00A1E4?style=flat-square&logo=openai&logoColor=white)
 
-**Backend, Frontend & Infrastructure**
+**Languages & ML Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Backend & Infrastructure**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-00A896?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N_Automation-FF6F00?style=flat-square&logo=n8n&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 
 ## Featured Projects
