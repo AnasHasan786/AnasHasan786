@@ -147,15 +147,34 @@ class AnasHasan:
 ```
 
 
-## GitHub Stats
-
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnasHasan786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="assets/dashboard/kpi_cards.svg" width="100%" alt="GitHub Analytics Overview" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnasHasan786&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+<sub>⚡ Live · Auto Updated Nightly via GitHub Actions</sub>
+
+<br/><br/>
+
+<img src="assets/dashboard/weekly_activity.svg" width="49%" alt="Weekly Activity" />
+<img src="assets/dashboard/commit_trend.svg" width="49%" alt="Commit Trend" />
+
+<br/><br/>
+
+<img src="assets/dashboard/language_distribution.svg" width="49%" alt="Language Distribution" />
+<img src="assets/dashboard/repo_growth.svg" width="49%" alt="Repository Growth" />
+
+<br/><br/>
+
+<img src="assets/dashboard/contribution_calendar.svg" width="100%" alt="Contribution Calendar" />
+
+<br/><br/>
+
+<sub>Generated locally with Python · No third-party stat cards · Refreshes every night at 00:00 UTC</sub>
 
 </div>
+
 
 
 ## Currently
