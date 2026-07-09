@@ -146,6 +146,7 @@ class AnasHasan:
         return ship_to_production(problem)
 ```
 
+## GitHub Analytics Dashboard
 
 <div align="center">
 
@@ -155,21 +156,21 @@ class AnasHasan:
 
 <sub>⚡ Live · Auto Updated Nightly via GitHub Actions</sub>
 
-<br/><br/>
+<br/>
 
 <img src="assets/dashboard/weekly_activity.svg" width="49%" alt="Weekly Activity" />
 <img src="assets/dashboard/commit_trend.svg" width="49%" alt="Commit Trend" />
 
-<br/><br/>
+<br/>
 
 <img src="assets/dashboard/language_distribution.svg" width="49%" alt="Language Distribution" />
 <img src="assets/dashboard/repo_growth.svg" width="49%" alt="Repository Growth" />
 
-<br/><br/>
+<br/>
 
 <img src="assets/dashboard/contribution_calendar.svg" width="100%" alt="Contribution Calendar" />
 
-<br/><br/>
+<br/>
 
 <sub>Generated locally with Python · No third-party stat cards · Refreshes every night at 00:00 UTC</sub>
 
