@@ -2,9 +2,9 @@
 
 <h1>Hey, I'm Anas Hasan 👋</h1>
 
-<p><b>AI Engineer &nbsp;·&nbsp; Agentic Systems Architect &nbsp;·&nbsp; B.E. CSE (AI/ML) &rsquo;25</b></p>
+<p><b>AI/ML Engineer &nbsp;·&nbsp; Building Agentic Systems with LangGraph &amp; RAG &nbsp;·&nbsp; B.E. CSE (AI/ML) &rsquo;25</b></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Designing+Autonomous+AI+Systems;LangGraph+%C2%B7+CrewAI+%C2%B7+Advanced+RAG+%C2%B7+FAISS;Multi-Agent+Orchestration+%C2%B7+Self-Correcting+Workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+with+LangGraph+%2B+RAG+%2B+FAISS;FastAPI+%C2%B7+AWS+%C2%B7+Multi-Agent+Pipelines;Open+to+AI%2FBackend+Engineer+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,11 +18,12 @@
 
 ## About Me
 
-I'm an **AI Engineer** specializing in Agentic AI — building systems where LLMs don't just respond, they *reason, evaluate, and self-correct*.
+I'm an AI/ML Engineer focused on agentic systems — multi-agent pipelines, RAG, and the infrastructure around them.
 
-My work sits at the intersection of software engineering and Generative AI: stateful multi-agent networks, graph-based execution workflows, and hallucination-resilient RAG pipelines that are built to hold up in production. I care deeply about the architecture layer — the part that makes AI systems reliable, not just impressive in a demo.
+I graduated in 2025 and have hands-on industry experience with FastAPI services, Amazon Bedrock, and AWS infrastructure (ECS, ECR, SQS). Since then, I've been building projects end-to-end and contributing to open source to sharpen my ability to write production-grade code, not just prototypes.
 
-> *"Not just prompting models — engineering the scaffolding that makes them trustworthy."*
+What I care about most is the part of AI systems that's easy to skip in a demo — error handling, retries, evaluation, and making sure an agent fails safely instead of confidently making things up.
+
 
 
 ## Technical Stack
@@ -52,6 +53,7 @@ My work sits at the intersection of software engineering and Generative AI: stat
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 
 ## Featured Projects
@@ -80,18 +82,20 @@ PDF Corpus ──▶ FAISS Vector Store ──▶ LangGraph Execution Graph
                                     └───────────────────┘
 ```
 
-**Key architecture:** LangGraph multi-agent cycle with Research → Critic → Improver nodes. Critic node rejects and re-routes suboptimal outputs automatically. Local FAISS vector context for high-precision document grounding. Streamlit frontend for interactive paper querying and result exploration.
+**Key architecture:** LangGraph multi-agent cycle with Research → Critic → Improver nodes. Critic node rejects and re-routes suboptimal outputs automatically. Local FAISS vector store for document grounding, with Groq-hosted Llama models for generation. Streamlit frontend for interactive paper querying and result exploration. Containerized with Docker and deployed on AWS.
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-Core-00BFFF?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-Llama-orange?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-RAG-green?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Deploy-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square)
 &nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/deepscholar-ai)**
 
 
-### 🤖 traceagent — Production Multi-Agent Orchestration Engine
+### 🤖 traceagent — AI Debugging & Incident Diagnosis Tool
 
-> Enterprise-grade orchestration framework for deterministic workflow tracking and linear execution safety across autonomous task workers.
+> Ingests stack traces and telemetry, routes them through an async pipeline, and produces a root-cause analysis with a dashboard to review it.
 
 ```
 Raw Stack Trace / Telemetry Data
@@ -113,6 +117,11 @@ Raw Stack Trace / Telemetry Data
                │
                ▼
 ┌─────────────────────────────┐
+│   n8n Auth & Orchestration  │  ◀── Workflow Automation
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
 │      Analyzer Service       │  ◀── Root Cause + Action Plan
 └──────────────┬──────────────┘
                │
@@ -122,12 +131,13 @@ Raw Stack Trace / Telemetry Data
 └─────────────────────────────┘
 ```
 
-**Key architecture:** Specialized agent backstories for high-efficiency task assignment. Full transparency — every LLM token, decision branch, and intermediate state shift is logged. Next.js dashboard surfaces incident timelines, root cause reports, and agent decision trees in real time.
+**Key architecture:** FastAPI ingest API buffers incoming incidents through AWS SQS, with n8n handling auth and workflow orchestration between services. Every LLM decision and intermediate state is logged so you can trace how a root-cause conclusion was reached. Next.js dashboard surfaces incident timelines and reports in real time. Deployed on AWS EC2.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-00A896?style=flat-square)
 ![Next.js](https://img.shields.io/badge/Next.js-Dashboard-000000?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Storage-47A248?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-Deploy-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 &nbsp;&nbsp;**[→ View Repository](https://github.com/AnasHasan786/traceagent)**
 
 
@@ -136,17 +146,18 @@ Raw Stack Trace / Telemetry Data
 ```python
 class AnasHasan:
 
-    degree    = "B.E. CSE — Artificial Intelligence & Machine Learning (2025)"
-    expertise = ["Agentic AI Architecture", "Multi-Agent Orchestration",
-                 "Advanced RAG Pipelines", "Self-Correcting LLM Workflows"]
+    degree      = "B.E. CSE — Artificial Intelligence & Machine Learning (2025)"
+    focus_areas = ["Multi-Agent Systems (LangGraph)", "RAG Pipelines",
+                    "FastAPI Backends", "AWS Infrastructure"]
 
     def build(self, problem):
         # Understand the failure modes before the happy path
-        identify_hallucination_risks(problem)
+        identify_edge_cases(problem)
         design_feedback_loops(problem)
-        enforce_determinism_where_it_matters(problem)
-        return ship_to_production(problem)
+        write_tests(problem)
+        return ship_it(problem)
 ```
+
 
 ## GitHub Analytics Dashboard
 
@@ -182,9 +193,9 @@ class AnasHasan:
 
 ## Currently
 
-- 🔬 &nbsp; Building and exploring self-correcting agent architectures and LLM evaluation frameworks
-- 🛠️ &nbsp; Deepening expertise in production-grade Agentic AI systems
-- 🤝 &nbsp; Open to engineering collaborations, AI systems design discussions, and full-time opportunities
+- 🔬 &nbsp; Contributing to open source projects and writing more code independently, less AI-assisted
+- 🧠 &nbsp; Practicing DSA (NeetCode 150 in C++) for interviews
+- 🤝 &nbsp; Open to full-time AI Engineer, Backend Engineer, and Software Engineer roles
 
 
 <div align="center">
