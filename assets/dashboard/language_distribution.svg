@@ -17,22 +17,26 @@
   <text x="24" y="52" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" font-weight="400"
         fill="#8B949E" text-anchor="start">By repository, primary language</text>
 
-  <path d="M 128.00 96.00 A 82 82 0 1 1 66.03 231.70 L 88.70 212.05 A 52 52 0 1 0 128.00 126.00 Z" fill="#00BFFF" opacity="0.95" />
-<path d="M 66.03 231.70 A 82 82 0 0 1 53.41 143.94 L 80.70 156.40 A 52 52 0 0 0 88.70 212.05 Z" fill="#38BDF8" opacity="0.95" />
-<path d="M 53.41 143.94 A 82 82 0 0 1 83.67 109.02 L 99.89 134.25 A 52 52 0 0 0 80.70 156.40 Z" fill="#0EA5E9" opacity="0.95" />
-<path d="M 83.67 109.02 A 82 82 0 0 1 128.00 96.00 L 128.00 126.00 A 52 52 0 0 0 99.89 134.25 Z" fill="#0284C7" opacity="0.95" />
-<text x="128" y="174" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle"  opacity="1">11</text>
+  <path d="M 128.00 96.00 A 82 82 0 1 1 87.00 249.01 L 102.00 223.03 A 52 52 0 1 0 128.00 126.00 Z" fill="#00BFFF" opacity="0.95" />
+<path d="M 87.00 249.01 A 82 82 0 0 1 46.00 178.00 L 76.00 178.00 A 52 52 0 0 0 102.00 223.03 Z" fill="#38BDF8" opacity="0.95" />
+<path d="M 46.00 178.00 A 82 82 0 0 1 56.99 137.00 L 82.97 152.00 A 52 52 0 0 0 76.00 178.00 Z" fill="#0EA5E9" opacity="0.95" />
+<path d="M 56.99 137.00 A 82 82 0 0 1 87.00 106.99 L 102.00 132.97 A 52 52 0 0 0 82.97 152.00 Z" fill="#0284C7" opacity="0.95" />
+<path d="M 87.00 106.99 A 82 82 0 0 1 128.00 96.00 L 128.00 126.00 A 52 52 0 0 0 102.00 132.97 Z" fill="#0369A1" opacity="0.95" />
+<text x="128" y="174" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle"  opacity="1">12</text>
 <text x="128" y="194" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="10.5" font-weight="500" fill="#8B949E" text-anchor="middle"  opacity="1">repos analyzed</text>
 <circle cx="250" cy="92" r="5" fill="#00BFFF" />
 <text x="264" y="96" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="start"  opacity="1">Python</text>
-<text x="436" y="96" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">63.6%</text>
+<text x="436" y="96" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">58.3%</text>
 <circle cx="250" cy="118" r="5" fill="#38BDF8" />
 <text x="264" y="122" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="start"  opacity="1">JavaScript</text>
-<text x="436" y="122" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">18.2%</text>
+<text x="436" y="122" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">16.7%</text>
 <circle cx="250" cy="144" r="5" fill="#0EA5E9" />
 <text x="264" y="148" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="start"  opacity="1">Jupyter Notebook</text>
-<text x="436" y="148" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">9.1%</text>
+<text x="436" y="148" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">8.3%</text>
 <circle cx="250" cy="170" r="5" fill="#0284C7" />
 <text x="264" y="174" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="start"  opacity="1">TypeScript</text>
-<text x="436" y="174" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">9.1%</text>
+<text x="436" y="174" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">8.3%</text>
+<circle cx="250" cy="196" r="5" fill="#0369A1" />
+<text x="264" y="200" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#FFFFFF" text-anchor="start"  opacity="1">Dockerfile</text>
+<text x="436" y="200" font-family="'Segoe UI', ui-sans-serif, system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E" text-anchor="end"  opacity="1">8.3%</text>
 </svg>
